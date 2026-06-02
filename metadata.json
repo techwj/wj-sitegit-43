@@ -1,0 +1,59 @@
+{
+  "siteId": "seasonal-ingredients",
+  "generatedAt": "2026-06-02T15:35:12.507397",
+  "categories": [
+    "beginner-seasonal-ingredients",
+    "advanced-seasonal-ingredients",
+    "tips-seasonal-ingredients",
+    "history-seasonal-ingredients",
+    "trending-seasonal-ingredients",
+    "tutorials-seasonal-ingredients"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-seasonal-ingredients",
+      "category_name": "Beginner Seasonal Ingredients"
+    },
+    {
+      "category_slug": "advanced-seasonal-ingredients",
+      "category_name": "Advanced Seasonal Ingredients"
+    },
+    {
+      "category_slug": "tips-seasonal-ingredients",
+      "category_name": "Seasonal Ingredients Tips"
+    },
+    {
+      "category_slug": "history-seasonal-ingredients",
+      "category_name": "Seasonal Ingredients History"
+    },
+    {
+      "category_slug": "trending-seasonal-ingredients",
+      "category_name": "Trending Seasonal Ingredients"
+    },
+    {
+      "category_slug": "tutorials-seasonal-ingredients",
+      "category_name": "Seasonal Ingredients Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "seasonal-ingredients",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Seasonal Ingredients Central",
+    "articles_per_row": 1
+  }
+}
